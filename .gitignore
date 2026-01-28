@@ -1,0 +1,35 @@
+
+# --------------------
+# Environment files
+# --------------------
+.env
+.env.*
+env/
+venv/
+.venv/
+
+# --------------------
+# Python cache / build
+# --------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --------------------
+# FastAPI / runtime
+# --------------------
+storage/
+*.log
+
+# --------------------
+# OS / Editor junk
+# --------------------
+.DS_Store
+Thumbs.db
+
+# --------------------
+# Security / temp
+# --------------------
+*.pem
+*.key

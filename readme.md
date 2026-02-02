@@ -21,6 +21,7 @@
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
+- [Project Demo](#-project-demo)
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
@@ -53,6 +54,22 @@ Healthcare data requires:
 - ✅ **Auditability**: Every change must be tracked
 - ✅ **Integrity**: No data loss or corruption
 - ✅ **Traceability**: Complete history of all changes
+
+---
+## 🎥 Project Demo
+
+Watch the full demo walkthrough of the **Health Records API**:
+
+[![Health Records API Demo](https://img.youtube.com/vi/HHL9LozL0jE/0.jpg)](https://youtu.be/HHL9LozL0jE)
+
+📌 **Demo Highlights**
+- FastAPI backend running with Swagger UI
+- JWT Authentication flows
+- Health Records CRUD with file versioning
+- Medicine Records CRUD with history and snapshots
+- Secure, production-ready project showcase
+
+👉 Click the thumbnail to watch the video directly on YouTube.
 
 ---
 

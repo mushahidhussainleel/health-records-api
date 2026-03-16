@@ -23,7 +23,12 @@ storage/
 *.log
 
 # --------------------
-# OS / Editor junk
+# VS Code
+# --------------------
+.vscode/
+
+# --------------------
+# OS junk
 # --------------------
 .DS_Store
 Thumbs.db

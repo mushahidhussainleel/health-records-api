@@ -643,7 +643,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Backend Developer (FastAPI / Python)
 - GitHub: [@mushahidhussainleel](https://github.com/mushahidhussainleel)
-- Email: mushahidhussain@example.com
+- Email: mushahidh442007@gmail.com
 
 ---
 
